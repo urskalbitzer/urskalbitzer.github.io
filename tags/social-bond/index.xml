@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social bond | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/tags/social-bond/</link>
-      <atom:link href="https://urskalbitzer.github.io/tags/social-bond/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/social-bond/</link>
+      <atom:link href="/tags/social-bond/index.xml" rel="self" type="application/rss+xml" />
     <description>social bond</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>social bond</title>
-      <link>https://urskalbitzer.github.io/tags/social-bond/</link>
+      <link>/tags/social-bond/</link>
     </image>
     
     <item>
       <title>Female sociality and sexual conflict shape offspring survival in a Neotropical primate</title>
-      <link>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</link>
+      <link>/publication/kalbitzer-female-2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</guid>
+      <guid>/publication/kalbitzer-female-2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human evolution | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/tags/human-evolution/</link>
-      <atom:link href="https://urskalbitzer.github.io/tags/human-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/human-evolution/</link>
+      <atom:link href="/tags/human-evolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Human evolution</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Human evolution</title>
-      <link>https://urskalbitzer.github.io/tags/human-evolution/</link>
+      <link>/tags/human-evolution/</link>
     </image>
     
     <item>
       <title>Charting the neglected West: The social system of Guinea baboons</title>
-      <link>https://urskalbitzer.github.io/publication/fischer-charting-2017/</link>
+      <link>/publication/fischer-charting-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/fischer-charting-2017/</guid>
+      <guid>/publication/fischer-charting-2017/</guid>
       <description></description>
     </item>
     

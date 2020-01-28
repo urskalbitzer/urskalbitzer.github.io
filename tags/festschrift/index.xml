@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>festschrift | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/tags/festschrift/</link>
-      <atom:link href="https://urskalbitzer.github.io/tags/festschrift/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/festschrift/</link>
+      <atom:link href="/tags/festschrift/index.xml" rel="self" type="application/rss+xml" />
     <description>festschrift</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>festschrift</title>
-      <link>https://urskalbitzer.github.io/tags/festschrift/</link>
+      <link>/tags/festschrift/</link>
     </image>
     
     <item>
       <title>How to cultivate a tree: Celebrating the career of Linda Marie Fedigan</title>
-      <link>https://urskalbitzer.github.io/publication/jack-how-2017/</link>
+      <link>/publication/jack-how-2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/jack-how-2017/</guid>
+      <guid>/publication/jack-how-2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rong Hou | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/authors/rong-hou/</link>
-      <atom:link href="https://urskalbitzer.github.io/authors/rong-hou/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/rong-hou/</link>
+      <atom:link href="/authors/rong-hou/index.xml" rel="self" type="application/rss+xml" />
     <description>Rong Hou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rong Hou</title>
-      <link>https://urskalbitzer.github.io/authors/rong-hou/</link>
+      <link>/authors/rong-hou/</link>
     </image>
     
     <item>
       <title>What will climate change mean for primates?</title>
-      <link>https://urskalbitzer.github.io/publication/chapman-what-2018/</link>
+      <link>/publication/chapman-what-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/chapman-what-2018/</guid>
+      <guid>/publication/chapman-what-2018/</guid>
       <description></description>
     </item>
     

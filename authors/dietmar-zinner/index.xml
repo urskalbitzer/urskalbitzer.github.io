@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dietmar Zinner | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/authors/dietmar-zinner/</link>
-      <atom:link href="https://urskalbitzer.github.io/authors/dietmar-zinner/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dietmar-zinner/</link>
+      <atom:link href="/authors/dietmar-zinner/index.xml" rel="self" type="application/rss+xml" />
     <description>Dietmar Zinner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dietmar Zinner</title>
-      <link>https://urskalbitzer.github.io/authors/dietmar-zinner/</link>
+      <link>/authors/dietmar-zinner/</link>
     </image>
     
     <item>
       <title>Charting the neglected West: The social system of Guinea baboons</title>
-      <link>https://urskalbitzer.github.io/publication/fischer-charting-2017/</link>
+      <link>/publication/fischer-charting-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/fischer-charting-2017/</guid>
+      <guid>/publication/fischer-charting-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Insights into the genetic foundation of aggression in textitPapio and the evolution of two length-polymorphisms in the promoter regions of serotonin-related genes (5-HTTLPR and MAOALPR) in Papionini</title>
-      <link>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</link>
+      <link>/publication/kalbitzer-insights-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</guid>
+      <guid>/publication/kalbitzer-insights-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Male tolerance and male–male bonds in a multilevel primate society</title>
-      <link>https://urskalbitzer.github.io/publication/patzelt-male-2014/</link>
+      <link>/publication/patzelt-male-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/patzelt-male-2014/</guid>
+      <guid>/publication/patzelt-male-2014/</guid>
       <description></description>
     </item>
     

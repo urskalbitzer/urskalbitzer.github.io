@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>long-term monitoring | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/tags/long-term-monitoring/</link>
-      <atom:link href="https://urskalbitzer.github.io/tags/long-term-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/long-term-monitoring/</link>
+      <atom:link href="/tags/long-term-monitoring/index.xml" rel="self" type="application/rss+xml" />
     <description>long-term monitoring</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>long-term monitoring</title>
-      <link>https://urskalbitzer.github.io/tags/long-term-monitoring/</link>
+      <link>/tags/long-term-monitoring/</link>
     </image>
     
     <item>
       <title>Group versus population level demographics: An analysis of comparability using long term data on wild white-faced capuchin monkeys (&lt;i&gt;Cebus capucinus imitator&lt;/i&gt;)</title>
-      <link>https://urskalbitzer.github.io/publication/hogan-group-2019/</link>
+      <link>/publication/hogan-group-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/hogan-group-2019/</guid>
+      <guid>/publication/hogan-group-2019/</guid>
       <description></description>
     </item>
     

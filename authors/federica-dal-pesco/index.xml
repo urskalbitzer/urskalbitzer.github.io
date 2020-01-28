@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Federica Dal Pesco | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/authors/federica-dal-pesco/</link>
-      <atom:link href="https://urskalbitzer.github.io/authors/federica-dal-pesco/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/federica-dal-pesco/</link>
+      <atom:link href="/authors/federica-dal-pesco/index.xml" rel="self" type="application/rss+xml" />
     <description>Federica Dal Pesco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Federica Dal Pesco</title>
-      <link>https://urskalbitzer.github.io/authors/federica-dal-pesco/</link>
+      <link>/authors/federica-dal-pesco/</link>
     </image>
     
     <item>
       <title>Charting the neglected West: The social system of Guinea baboons</title>
-      <link>https://urskalbitzer.github.io/publication/fischer-charting-2017/</link>
+      <link>/publication/fischer-charting-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/fischer-charting-2017/</guid>
+      <guid>/publication/fischer-charting-2017/</guid>
       <description></description>
     </item>
     

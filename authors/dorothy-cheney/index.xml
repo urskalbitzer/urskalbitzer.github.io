@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dorothy Cheney | Urs Kalbitzer</title>
-    <link>https://urskalbitzer.github.io/authors/dorothy-cheney/</link>
-      <atom:link href="https://urskalbitzer.github.io/authors/dorothy-cheney/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dorothy-cheney/</link>
+      <atom:link href="/authors/dorothy-cheney/index.xml" rel="self" type="application/rss+xml" />
     <description>Dorothy Cheney</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dorothy Cheney</title>
-      <link>https://urskalbitzer.github.io/authors/dorothy-cheney/</link>
+      <link>/authors/dorothy-cheney/</link>
     </image>
     
     <item>
       <title>Social behavior and patterns of testosterone and glucocorticoid levels differ between male chacma and Guinea baboons</title>
-      <link>https://urskalbitzer.github.io/publication/kalbitzer-social-2015/</link>
+      <link>/publication/kalbitzer-social-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/kalbitzer-social-2015/</guid>
+      <guid>/publication/kalbitzer-social-2015/</guid>
       <description></description>
     </item>
     
