@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Urs Kalbitzer</title>
+    <link>/tags/deep-learning/</link>
+      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Male-male competition</title>
+      <link>/project/male-competition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/male-competition/</guid>
+      <description>&lt;p&gt;In mammals, the most common male reproductive strategy is to compete intensely over access to receptive females, and males show little interest in cooperating with each other. However, there are exceptions to this pattern and even males of closely related species can greatly differ. Baboons (&lt;em&gt;Papio&lt;/em&gt; spp.) represent such a genus with variation in male reproductive strategies despite their recent common ancestry (around 2mya).&lt;/p&gt;
+&lt;p&gt;For my PhD thesis with &lt;a href=&#34;http://www.dpz.eu/en/unit/cognitive-ethology/about-us.html&#34;&gt;Dr. Julia Fischer&lt;/a&gt;, I compared the social behavior between males of two baboon species, chacma baboons in Botswana and Guinea baboons in Senegal because males of these two species appear to represent opposite extremes in terms of their reproductive strategies. Male chacma baboons usually compete intensely to achieve a high dominance rank that provides access to receptive females and, consequently, high reproductive success. On the other hand, male Guinea baboons had been described as living in a multi-level society, with long-term bonds between males and females, male-male cooperation and unknown male dominance relationships.&lt;/p&gt;
+&lt;p&gt;My research demonstrated that males of both species also differed in their aggressiveness and tolerance. Male chacma baboons were mainly intolerant of each other, often had agonistic interactions and fights that regularly resulted in serious injuries.
+{% include figure.html image=&amp;rdquo;/male_chacma_wound.jpg&amp;rdquo; caption=&amp;quot;Male chacma baboons with a wound after a fight with another male&amp;rdquo; position=&amp;quot;center&amp;rdquo; %}
+Male Guinea baboons exhibited a high tolerance of each other and even showed affiliative behaviors towards each other (&lt;a href=&#34;https://doi.org/10.1016/j.yhbeh.2015.08.013&#34;&gt;Kalbitzer et al. 2015&lt;/a&gt;).
+{% include figure.html image=&amp;rdquo;/mm_affiliation.jpg&amp;rdquo; caption=&amp;quot;Affiliation between two male Guinea baboons&amp;rdquo; position=&amp;quot;center&amp;rdquo; %}&lt;/p&gt;
+&lt;p&gt;This difference in social behavior also has consequences for the physiological costs of reproductive behavior. Glucocorticoid levels of &amp;lsquo;consorting&amp;rsquo; male chacma baboons, (males that closely follow an estrous female), are elevated compared to baseline conditions, while such an effect was not observed in the highly tolerant Guinea baboons (&lt;a href=&#34;https://doi.org/10.1016/j.yhbeh.2015.08.013&#34;&gt;Kalbitzer et al. 2015&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Contrary to what previous research would lead one to believe, a comparison of a genetic polymorphism previously linked to variation in aggressiveness in humans and non-human primates, carried out across five species of baboons did not indicate a link between these polymorphisms and interspecific variation in behavior (&lt;a href=&#34;https://doi.org/10.1186/s12862-016-0693-1&#34;&gt;Kalbitzer et al. 2016&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I summarized this work in the &lt;a href=&#34;http://blogs.biomedcentral.com/on-biology/2016/07/29/investigating-aggression-inter-specific-differences-baboon-behavior/&#34;&gt;BMC On Biology blog.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

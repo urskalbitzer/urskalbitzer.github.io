@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katharine M. Jack | Urs Kalbitzer</title>
+    <link>/authors/katharine-m.-jack/</link>
+      <atom:link href="/authors/katharine-m.-jack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katharine M. Jack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Katharine M. Jack</title>
+      <link>/authors/katharine-m.-jack/</link>
+    </image>
+    
+    <item>
+      <title>Female sociality and sexual conflict shape offspring survival in a Neotropical primate</title>
+      <link>/publication/kalbitzer-female-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kalbitzer-female-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
