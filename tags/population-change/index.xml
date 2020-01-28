@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>population change | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/tags/population-change/</link>
+      <atom:link href="https://urskalbitzer.github.io/tags/population-change/index.xml" rel="self" type="application/rss+xml" />
+    <description>population change</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>population change</title>
+      <link>https://urskalbitzer.github.io/tags/population-change/</link>
+    </image>
+    
+    <item>
+      <title>Group versus population level demographics: An analysis of comparability using long term data on wild white-faced capuchin monkeys (&lt;i&gt;Cebus capucinus imitator&lt;/i&gt;)</title>
+      <link>https://urskalbitzer.github.io/publication/hogan-group-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/hogan-group-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

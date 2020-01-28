@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eva C Wikberg | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/authors/eva-c-wikberg/</link>
+      <atom:link href="https://urskalbitzer.github.io/authors/eva-c-wikberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eva C Wikberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eva C Wikberg</title>
+      <link>https://urskalbitzer.github.io/authors/eva-c-wikberg/</link>
+    </image>
+    
+    <item>
+      <title>Female sociality and sexual conflict shape offspring survival in a Neotropical primate</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

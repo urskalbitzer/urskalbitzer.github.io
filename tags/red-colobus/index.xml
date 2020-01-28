@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>red colobus | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/tags/red-colobus/</link>
+      <atom:link href="https://urskalbitzer.github.io/tags/red-colobus/index.xml" rel="self" type="application/rss+xml" />
+    <description>red colobus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>red colobus</title>
+      <link>https://urskalbitzer.github.io/tags/red-colobus/</link>
+    </image>
+    
+    <item>
+      <title>Primates create seedling growth hotspots through pattern of dung deposition</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-primates-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-primates-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

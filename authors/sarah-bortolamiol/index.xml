@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Bortolamiol | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/authors/sarah-bortolamiol/</link>
+      <atom:link href="https://urskalbitzer.github.io/authors/sarah-bortolamiol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Bortolamiol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sarah Bortolamiol</title>
+      <link>https://urskalbitzer.github.io/authors/sarah-bortolamiol/</link>
+    </image>
+    
+    <item>
+      <title>Does the presence of elephant dung create hotspots of growth for existing seedlings?</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-does-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-does-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

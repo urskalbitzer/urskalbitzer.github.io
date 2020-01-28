@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mackenzie L Bergstrom | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/authors/mackenzie-l-bergstrom/</link>
+      <atom:link href="https://urskalbitzer.github.io/authors/mackenzie-l-bergstrom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mackenzie L Bergstrom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mackenzie L Bergstrom</title>
+      <link>https://urskalbitzer.github.io/authors/mackenzie-l-bergstrom/</link>
+    </image>
+    
+    <item>
+      <title>Non-invasive estimation of the costs of feeding competition in a neotropical primate</title>
+      <link>https://urskalbitzer.github.io/publication/bergstrom-non-invasive-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/bergstrom-non-invasive-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Female sociality and sexual conflict shape offspring survival in a Neotropical primate</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

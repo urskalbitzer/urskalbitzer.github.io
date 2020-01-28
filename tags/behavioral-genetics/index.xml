@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behavioral genetics | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/tags/behavioral-genetics/</link>
+      <atom:link href="https://urskalbitzer.github.io/tags/behavioral-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Behavioral genetics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Behavioral genetics</title>
+      <link>https://urskalbitzer.github.io/tags/behavioral-genetics/</link>
+    </image>
+    
+    <item>
+      <title>Insights into the genetic foundation of aggression in textitPapio and the evolution of two length-polymorphisms in the promoter regions of serotonin-related genes (5-HTTLPR and MAOALPR) in Papionini</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
