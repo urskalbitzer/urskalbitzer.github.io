@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>capuchin | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/tag/capuchin/</link>
+      <atom:link href="https://urskalbitzer.github.io/tag/capuchin/index.xml" rel="self" type="application/rss+xml" />
+    <description>capuchin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://urskalbitzer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>capuchin</title>
+      <link>https://urskalbitzer.github.io/tag/capuchin/</link>
+    </image>
+    
+    <item>
+      <title>Group versus population level demographics: An analysis of comparability using long term data on wild white-faced capuchin monkeys (&lt;i&gt;Cebus capucinus imitator&lt;/i&gt;)</title>
+      <link>https://urskalbitzer.github.io/publication/hogan-group-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/hogan-group-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Female sociality and sexual conflict shape offspring survival in a Neotropical primate</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

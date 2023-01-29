@@ -2,83 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urs Kalbitzer</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://urskalbitzer.github.io/</link>
+      <atom:link href="https://urskalbitzer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Urs Kalbitzer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Urs Kalbitzer</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://urskalbitzer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Urs Kalbitzer</title>
-      <link>/</link>
+      <link>https://urskalbitzer.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&#39;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://urskalbitzer.github.io/_index_copy/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/_index_copy/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Non-invasive estimation of the costs of feeding competition in a neotropical primate</title>
-      <link>/publication/bergstrom-non-invasive-2020/</link>
+      <link>https://urskalbitzer.github.io/publication/bergstrom-non-invasive-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bergstrom-non-invasive-2020/</guid>
+      <guid>https://urskalbitzer.github.io/publication/bergstrom-non-invasive-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Female Sociability</title>
-      <link>/project/female-sociability/</link>
+      <link>https://urskalbitzer.github.io/project/01_female-sociability/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/project/female-sociability/</guid>
+      <guid>https://urskalbitzer.github.io/project/01_female-sociability/</guid>
       <description>&lt;p&gt;In many mammals, including humans, individuals form groups in which social relationships can be highly differentiated (i.e., some individuals form strong relationships, while others only have weak ones). As a result, some individuals are socially better integrated than others, which appears to be beneficial for these individuals. For example,
-other researchers have documented that social integration and support in humans have positive effects on health and longevity (e.g., &lt;a href=&#34;http://www.pnas.org/content/113/3/578&#34;&gt;Yang et al., 2016&lt;/a&gt;), and increase the reproductive success (&lt;a href=&#34;https://www.nature.com/articles/s41598-017-01310-5&#34;&gt;Page et al., 2017&lt;/a&gt;). Similarly, highly social female &lt;a href=&#34;http://www.pnas.org/content/107/46/19949.abstract&#34;&gt;dolphins&lt;/a&gt;, &lt;a href=&#34;http://www.pnas.org/content/106/33/13850.abstract&#34;&gt;horses&lt;/a&gt;, and baboons (&lt;a href=&#34;http://science.sciencemag.org/content/302/5648/1231&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://rspb.royalsocietypublishing.org/content/276/1670/3099&#34;&gt;here&lt;/a&gt;, or &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0960982210007219?via%3Dihub&#34;&gt;here&lt;/a&gt;) exhibit greater fitness parameters, such as offspring survival or longevity, than socially less well integrated individuals.&lt;/p&gt;
-&lt;p&gt;One of my interests is in understanding how female sociability in primates confers these benefits. A study on white-faced capuchins that I conducted during my postdoc with &lt;a href=&#34;http://people.ucalgary.ca/~fedigan/fedigan.htm&#34;&gt;Dr. Linda Fedigan&lt;/a&gt; at the University of Calgary showed that infants of highly social females exhibited greater survival during stable periods, but these infants were at greater risk of dying or disappearing during periods of alpha male replacements (&lt;a href=&#34;http://www.pnas.org/content/114/8/1892&#34;&gt;Kalbitzer et al. 2017&lt;/a&gt;). Probably, new alpha males, which often commit infanticide in this species, are more likely to target the infants of highly social, and therefore central, females. This example illustrates that sociability can also have costs and, therefore, can represent a trade-off in some species. &amp;ndash; See the feature in the &lt;a href=&#34;https://www.newscientist.com/article/2120476-being-friendly-puts-monkeys-at-risk-in-times-of-revolution/&#34;&gt;&lt;em&gt;New Scientist&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+other researchers have documented that social integration and support in humans have positive effects on health and longevity (e.g., &lt;a href=&#34;http://www.pnas.org/content/113/3/578&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang et al., 2016&lt;/a&gt;), and increase the reproductive success (&lt;a href=&#34;https://www.nature.com/articles/s41598-017-01310-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page et al., 2017&lt;/a&gt;). Similarly, highly social female &lt;a href=&#34;http://www.pnas.org/content/107/46/19949.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dolphins&lt;/a&gt;, &lt;a href=&#34;http://www.pnas.org/content/106/33/13850.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;horses&lt;/a&gt;, and baboons (&lt;a href=&#34;http://science.sciencemag.org/content/302/5648/1231&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://rspb.royalsocietypublishing.org/content/276/1670/3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, or &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0960982210007219?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) exhibit greater fitness parameters, such as offspring survival or longevity, than socially less well integrated individuals.&lt;/p&gt;
+&lt;p&gt;One of my interests is in understanding how female sociability in primates confers these benefits. A study on white-faced capuchins that I conducted during my postdoc with &lt;a href=&#34;http://people.ucalgary.ca/~fedigan/fedigan.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Linda Fedigan&lt;/a&gt; at the University of Calgary showed that infants of highly social females exhibited greater survival during stable periods, but these infants were at greater risk of dying or disappearing during periods of alpha male replacements (&lt;a href=&#34;http://www.pnas.org/content/114/8/1892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kalbitzer et al. 2017&lt;/a&gt;). Probably, new alpha males, which often commit infanticide in this species, are more likely to target the infants of highly social, and therefore central, females. This example illustrates that sociability can also have costs and, therefore, can represent a trade-off in some species. &amp;ndash; See the feature in the &lt;a href=&#34;https://www.newscientist.com/article/2120476-being-friendly-puts-monkeys-at-risk-in-times-of-revolution/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;New Scientist&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our study suggested a mechanism that imposes costs on sociability (i.e., being spatially central in the group during alpha male replacements), but what are the mechanisms that provide benefits to sociability? I am currently investigating this question with a variety of approaches, including social network analyses, analyzing alloparenting behavior, and comparing c-peptide levels among female capuchins.&lt;/p&gt;
-&lt;p&gt;Furthermore, I extended this research to red colobus monkeys in Uganda in collaboration with &lt;a href=&#34;http://www.chapmancolin.com/&#34;&gt;Dr. Colin Chapman&lt;/a&gt;. This species has a very different type of diet (leaves) from capuchins (mostly fruit and insects), and we are using dynamic social network analyses to investigate how social relationships and the benefits of sociability change depending on the distribution, availability, and nutritional quality of food resources, and how this variation affects offspring survival. For this investigation, we are building on more than a decade of demographic data and collecting data on feeding and social behavior within an ecologically well assessed habitat.&lt;/p&gt;
+&lt;p&gt;Furthermore, I extended this research to red colobus monkeys in Uganda in collaboration with &lt;a href=&#34;http://www.chapmancolin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Colin Chapman&lt;/a&gt;. This species has a very different type of diet (leaves) from capuchins (mostly fruit and insects), and we are using dynamic social network analyses to investigate how social relationships and the benefits of sociability change depending on the distribution, availability, and nutritional quality of food resources, and how this variation affects offspring survival. For this investigation, we are building on more than a decade of demographic data and collecting data on feeding and social behavior within an ecologically well assessed habitat.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Changing Environments</title>
-      <link>/project/changing-environments/</link>
+      <link>https://urskalbitzer.github.io/project/02_changing-environments/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/project/changing-environments/</guid>
-      <description>&lt;p&gt;According to the IUCN, &lt;a href=&#34;http://advances.sciencemag.org/content/3/1/e1600946&#34;&gt;about 60% of the ~500 primate species are threatened by extinction, and this is mainly the result of human activity&lt;/a&gt;&lt;/p&gt;
+      <guid>https://urskalbitzer.github.io/project/02_changing-environments/</guid>
+      <description>&lt;p&gt;According to the IUCN, &lt;a href=&#34;http://advances.sciencemag.org/content/3/1/e1600946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;about 60% of the ~500 primate species are threatened by extinction, and this is mainly the result of human activity&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Environmental changes linked to human activities include landscape modifications, hunting and other interactions between human and non-human primates, and climate change.&lt;/p&gt;
-&lt;p&gt;Primates seem to be especially vulnerable to these rapid changes because of their slow life-histories and long generation times. On the other hand, primates show considerable behavioral flexibility, which may help them to respond to environmental change in an adaptive way &lt;a href=&#34;https://doi.org/10.1007/978-3-319-98285-4_14&#34;&gt;(Kalbitzer &amp;amp; Chapman, 2018)&lt;/a&gt;. The question as to how such flexibility may help animals to respond to environmental changes associated with the &lt;a href=&#34;http://www.pnas.org/content/113/15/3908.extract&#34;&gt;‘Anthropocene’&lt;/a&gt; is generally discussed in behavioral ecology (e.g. &lt;a href=&#34;https://global.oup.com/academic/product/behavioural-responses-to-a-changing-world-9780199602575?cc=ca&amp;amp;lang=en&amp;amp;&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://doi.org/10.1093/beheco/aru183&#34;&gt;here&lt;/a&gt;), and I would like to contribute to this discussion by investigating how environmental changes affect breeding seasonality, infant survival and adaptive social behavior in different species of primates.&lt;/p&gt;
+&lt;p&gt;Primates seem to be especially vulnerable to these rapid changes because of their slow life-histories and long generation times. On the other hand, primates show considerable behavioral flexibility, which may help them to respond to environmental change in an adaptive way &lt;a href=&#34;https://doi.org/10.1007/978-3-319-98285-4_14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Kalbitzer &amp;amp; Chapman, 2018)&lt;/a&gt;. The question as to how such flexibility may help animals to respond to environmental changes associated with the &lt;a href=&#34;http://www.pnas.org/content/113/15/3908.extract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘Anthropocene’&lt;/a&gt; is generally discussed in behavioral ecology (e.g. &lt;a href=&#34;https://global.oup.com/academic/product/behavioural-responses-to-a-changing-world-9780199602575?cc=ca&amp;amp;lang=en&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://doi.org/10.1093/beheco/aru183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), and I would like to contribute to this discussion by investigating how environmental changes affect breeding seasonality, infant survival and adaptive social behavior in different species of primates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Male-male competition</title>
-      <link>/project/male-competition/</link>
+      <link>https://urskalbitzer.github.io/project/03_male-competition/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/project/male-competition/</guid>
+      <guid>https://urskalbitzer.github.io/project/03_male-competition/</guid>
       <description>&lt;p&gt;In mammals, the most common male reproductive strategy is to compete intensely over access to receptive females, and males show little interest in cooperating with each other. However, there are exceptions to this pattern and even males of closely related species can greatly differ. Baboons (&lt;em&gt;Papio&lt;/em&gt; spp.) represent such a genus with variation in male reproductive strategies despite their recent common ancestry (around 2 mya).&lt;/p&gt;
-&lt;p&gt;For my PhD thesis with &lt;a href=&#34;http://www.dpz.eu/en/unit/cognitive-ethology/about-us.html&#34;&gt;Dr. Julia Fischer&lt;/a&gt;, I compared the social behavior between males of two baboon species, chacma baboons in Botswana and Guinea baboons in Senegal because males of these two species appear to represent opposite extremes in terms of their reproductive strategies. Male chacma baboons usually compete intensely to achieve a high dominance rank that provides access to receptive females and, consequently, high reproductive success. On the other hand, male Guinea baboons had been described as living in a multi-level society, with long-term bonds between males and females, male-male cooperation and unknown male dominance relationships.&lt;/p&gt;
-&lt;p&gt;My research demonstrated that males of both species also differed in their aggressiveness and tolerance (&lt;a href=&#34;https://doi.org/10.1016/j.yhbeh.2015.08.013&#34;&gt;Kalbitzer et al. 2015&lt;/a&gt;). Male chacma baboons were mainly intolerant of each other, often had agonistic interactions and fights that regularly resulted in serious injuries:&lt;/p&gt;
-
-
-
-
-
-  
-  
+&lt;p&gt;For my PhD thesis with &lt;a href=&#34;http://www.dpz.eu/en/unit/cognitive-ethology/about-us.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Julia Fischer&lt;/a&gt;, I compared the social behavior between males of two baboon species, chacma baboons in Botswana and Guinea baboons in Senegal because males of these two species appear to represent opposite extremes in terms of their reproductive strategies. Male chacma baboons usually compete intensely to achieve a high dominance rank that provides access to receptive females and, consequently, high reproductive success. On the other hand, male Guinea baboons had been described as living in a multi-level society, with long-term bonds between males and females, male-male cooperation and unknown male dominance relationships.&lt;/p&gt;
+&lt;p&gt;My research demonstrated that males of both species also differed in their aggressiveness and tolerance (&lt;a href=&#34;https://doi.org/10.1016/j.yhbeh.2015.08.013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kalbitzer et al. 2015&lt;/a&gt;). Male chacma baboons were mainly intolerant of each other, often had agonistic interactions and fights that regularly resulted in serious injuries:&lt;/p&gt;
 
 
 
@@ -90,319 +71,183 @@ other researchers have documented that social integration and support in humans 
 
 
 
-&lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Male chacma baboon with a wound after a fight with another male. Photo by Urs Kalbitzer.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;443&#34; height=&#34;470&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    Male chacma baboon with a wound after a fight with another male. Photo by Urs Kalbitzer.
-  &lt;/figcaption&gt;
 
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-male-chacma-baboon-with-a-wound-after-a-fight-with-another-male-photo-by-urs-kalbitzer&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Male chacma baboon with a wound after a fight with another male. Photo by Urs Kalbitzer.&#34; srcset=&#34;
+               /project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_9c970632adac9b7055aa05bef6b88f95.webp 400w,
+               /project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_b5c8eb2751c81466365ac30191a3571a.webp 760w,
+               /project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://urskalbitzer.github.io/project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_9c970632adac9b7055aa05bef6b88f95.webp&#34;
+               width=&#34;443&#34;
+               height=&#34;470&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Male chacma baboon with a wound after a fight with another male. Photo by Urs Kalbitzer.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;In contrast, male Guinea baboons exhibited a high tolerance of each other and even showed affiliative behaviors towards each other (see picture at the top if this page).&lt;/p&gt;
 &lt;p&gt;This difference in social behavior also has consequences for the physiological costs of reproductive behavior: glucocorticoid levels of &amp;lsquo;consorting&amp;rsquo; male chacma baboons (males that closely follow an estrous female), are elevated compared to baseline conditions, while such an effect was not observed in the highly tolerant Guinea baboons.&lt;/p&gt;
-&lt;p&gt;Contrary to what previous research would lead one to believe, a comparison of genetic polymorphisms previously linked to variation in aggressiveness in humans and non-human primates (&lt;em&gt;MAOALPR&lt;/em&gt;, &lt;em&gt;5-HTTLPR&lt;/em&gt;), carried out across five species of baboons did not indicate a link between these polymorphisms and interspecific variation in behavior (&lt;a href=&#34;https://doi.org/10.1186/s12862-016-0693-1&#34;&gt;Kalbitzer et al. 2016&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;I summarized this work in the &lt;a href=&#34;http://blogs.biomedcentral.com/on-biology/2016/07/29/investigating-aggression-inter-specific-differences-baboon-behavior/&#34;&gt;BMC On Biology blog.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Contrary to what previous research would lead one to believe, a comparison of genetic polymorphisms previously linked to variation in aggressiveness in humans and non-human primates (&lt;em&gt;MAOALPR&lt;/em&gt;, &lt;em&gt;5-HTTLPR&lt;/em&gt;), carried out across five species of baboons did not indicate a link between these polymorphisms and interspecific variation in behavior (&lt;a href=&#34;https://doi.org/10.1186/s12862-016-0693-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kalbitzer et al. 2016&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I summarized this work in the &lt;a href=&#34;http://blogs.biomedcentral.com/on-biology/2016/07/29/investigating-aggression-inter-specific-differences-baboon-behavior/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMC On Biology blog.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Build science in Africa</title>
-      <link>/publication/atickem-build-2019/</link>
+      <link>https://urskalbitzer.github.io/publication/atickem-build-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/atickem-build-2019/</guid>
+      <guid>https://urskalbitzer.github.io/publication/atickem-build-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primates create seedling growth hotspots through pattern of dung deposition</title>
-      <link>/publication/kalbitzer-primates-2019/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-primates-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-primates-2019/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-primates-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does the presence of elephant dung create hotspots of growth for existing seedlings?</title>
-      <link>/publication/kalbitzer-does-2019/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-does-2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-does-2019/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-does-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Group versus population level demographics: An analysis of comparability using long term data on wild white-faced capuchin monkeys (&lt;i&gt;Cebus capucinus imitator&lt;/i&gt;)</title>
-      <link>/publication/hogan-group-2019/</link>
+      <link>https://urskalbitzer.github.io/publication/hogan-group-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hogan-group-2019/</guid>
+      <guid>https://urskalbitzer.github.io/publication/hogan-group-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primate Responses to Changing Environments in the Anthropocene</title>
-      <link>/publication/kalbitzer-primate-2018-1/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018-1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-primate-2018-1/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The evolution of fruit colour: phylogeny, abiotic factors and the role of mutualists</title>
-      <link>/publication/valenta-evolution-2018/</link>
+      <link>https://urskalbitzer.github.io/publication/valenta-evolution-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/valenta-evolution-2018/</guid>
+      <guid>https://urskalbitzer.github.io/publication/valenta-evolution-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Primate Life Histories, Sex Roles, and Adaptability - Essays in Honour of Linda M. Fedigan</title>
-      <link>/publication/kalbitzer-primate-2018/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-primate-2018/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restoration Provides Hope for Faunal Recovery: Changes in Primate Abundance Over 45 Years in Kibale National Park, Uganda</title>
-      <link>/publication/chapman-restoration-2018/</link>
+      <link>https://urskalbitzer.github.io/publication/chapman-restoration-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/chapman-restoration-2018/</guid>
+      <guid>https://urskalbitzer.github.io/publication/chapman-restoration-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What will climate change mean for primates?</title>
-      <link>/publication/chapman-what-2018/</link>
+      <link>https://urskalbitzer.github.io/publication/chapman-what-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/chapman-what-2018/</guid>
+      <guid>https://urskalbitzer.github.io/publication/chapman-what-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to cultivate a tree: Celebrating the career of Linda Marie Fedigan</title>
-      <link>/publication/jack-how-2017/</link>
+      <link>https://urskalbitzer.github.io/publication/jack-how-2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/jack-how-2017/</guid>
+      <guid>https://urskalbitzer.github.io/publication/jack-how-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Female sociality and sexual conflict shape offspring survival in a Neotropical primate</title>
-      <link>/publication/kalbitzer-female-2017/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-female-2017/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charting the neglected West: The social system of Guinea baboons</title>
-      <link>/publication/fischer-charting-2017/</link>
+      <link>https://urskalbitzer.github.io/publication/fischer-charting-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fischer-charting-2017/</guid>
+      <guid>https://urskalbitzer.github.io/publication/fischer-charting-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Insights into the genetic foundation of aggression in textitPapio and the evolution of two length-polymorphisms in the promoter regions of serotonin-related genes (5-HTTLPR and MAOALPR) in Papionini</title>
-      <link>/publication/kalbitzer-insights-2016/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-insights-2016/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social behavior and patterns of testosterone and glucocorticoid levels differ between male chacma and Guinea baboons</title>
-      <link>/publication/kalbitzer-social-2015/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-social-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-social-2015/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-social-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Male tolerance and male–male bonds in a multilevel primate society</title>
-      <link>/publication/patzelt-male-2014/</link>
+      <link>https://urskalbitzer.github.io/publication/patzelt-male-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/patzelt-male-2014/</guid>
+      <guid>https://urskalbitzer.github.io/publication/patzelt-male-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How the cerebral serotonin homeostasis predicts environmental changes: a model to explain seasonal changes of brain 5-HTT as intermediate phenotype of the 5-HTTLPR</title>
-      <link>/publication/kalbitzer-how-2013/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-how-2013/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-how-2013/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-how-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methodological considerations in the analysis of fecal glucocorticoid metabolites in tufted capuchins (textitCebus apella)</title>
-      <link>/publication/wheeler-methodological-2013/</link>
+      <link>https://urskalbitzer.github.io/publication/wheeler-methodological-2013/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/wheeler-methodological-2013/</guid>
+      <guid>https://urskalbitzer.github.io/publication/wheeler-methodological-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term storage effects in steroid metabolite extracts from baboon (textitPapio sp.) faeces - a comparison of three commonly applied storage methods</title>
-      <link>/publication/kalbitzer-long-term-2013/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-long-term-2013/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/kalbitzer-long-term-2013/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-long-term-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://urskalbitzer.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

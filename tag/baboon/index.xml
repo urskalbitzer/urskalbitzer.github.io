@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baboon | Urs Kalbitzer</title>
+    <link>https://urskalbitzer.github.io/tag/baboon/</link>
+      <atom:link href="https://urskalbitzer.github.io/tag/baboon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baboon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://urskalbitzer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Baboon</title>
+      <link>https://urskalbitzer.github.io/tag/baboon/</link>
+    </image>
+    
+    <item>
+      <title>Insights into the genetic foundation of aggression in textitPapio and the evolution of two length-polymorphisms in the promoter regions of serotonin-related genes (5-HTTLPR and MAOALPR) in Papionini</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

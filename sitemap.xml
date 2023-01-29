@@ -1,722 +1,346 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/urs-kalbitzer/</loc>
+    <loc>https://urskalbitzer.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/_index_copy/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication-type/2/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/c-peptide/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/amanda-d-melin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/dominance/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/energy-balance/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/c-peptide/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/food-availability/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dominance/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/food-competition/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/energy-balance/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/ketone/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/fernando-a-campos/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/bergstrom-non-invasive-2020/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/food-availability/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication_types/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/food-competition/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ketone/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/socioecological-theory/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/linda-m-fedigan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/socioecology/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mackenzie-l-bergstrom/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tags/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/melissa-emery-thompson/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bergstrom-non-invasive-2020/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/socioecological-theory/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/socioecology/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/female-sociability/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/01_female-sociability/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/changing-environments/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/02_changing-environments/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/male-competition/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/03_male-competition/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/addisu-mekonnen/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/atickem-build-2019/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/afework-bekele/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/fertiliser/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anagaw-atickem/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/kibale-national-park/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/atickem-build-2019/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/nutrient/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/colin-a-chapman/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/piliocolobus-tephrosceles/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fertiliser/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/primate/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/kibale-national-park/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-primates-2019/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nga-nguyen/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/red-colobus/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nils-chr-stenseth/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/uganda/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nutrient/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/patrick-a-omeja/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peter-j-fashing/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/piliocolobus-tephrosceles/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/primate/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-primates-2019/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/red-colobus/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/uganda/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/victoria-mcinnis/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-does-2019/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-does-2019/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/elephants/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/elephants/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/megaherbivores/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/megaherbivores/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sarah-bortolamiol/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/seedling-growth/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/seedling-growth/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/seedling-survival/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/seedling-survival/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/capuchin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/capuchin/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demography/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/demography/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hogan-group-2019/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/hogan-group-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jeremy-d-hogan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/long-term-monitoring/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/katharine-m-jack/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/population-change/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/long-term-monitoring/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/santa-rosa/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/population-change/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/santa-rosa/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/6/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication-type/6/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-primate-2018-1/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018-1/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/colin-.-chapman/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/valenta-evolution-2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/diary-razafimandimby/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kim-valenta/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/manfred-ayasse/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/omer-nevo/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/valenta-evolution-2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/5/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication-type/5/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/michael-j-lawes/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/penglai-fan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/chapman-restoration-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-primate-2018/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/chapman-what-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/chapman-restoration-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rong-hou/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/chapman-what-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cebus/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/cebus/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/festschrift/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/festschrift/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/jack-how-2017/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/jack-how-2017/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/long-term-data/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/long-term-data/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/santa-rosa-primate-field-project/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/santa-rosa-primate-field-project/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/eva-c-wikberg/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-female-2017/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-female-2017/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/infanticide/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/infanticide/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/mammal/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mammal/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/reproductive-success/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/reproductive-success/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/social-bond/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sarah-d-carnegie/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shoji-kawamura/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-bond/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/adeelia-goffe/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/fischer-charting-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/annika-patzelt/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/female-dispersal/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fischer-charting-2017/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/guinea-baboons/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dietmar-zinner/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/human-evolution/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/federica-dal-pesco/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/nested-multi-level-society/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/female-dispersal/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/papio-papio/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/gisela-h-kopp/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/primate-evolution/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/guinea-baboons/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/social-system/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/human-evolution/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ibrahima-ndao/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/julia-fischer/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kurt-hammerschmidt/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/matthias-klapproth/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nested-multi-level-society/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/papio-papio/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peter-maciej/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/primate-evolution/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-system/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/5-ht/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/5-ht/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/baboon/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/baboon/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/behavioral-genetics/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/behavioral-genetics/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/candidate-gene/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/candidate-gene/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/christian-roos/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-insights-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-insights-2016/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/macaca/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/macaca/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/macaque/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/macaque/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/maoa-uvntr/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/maoa-uvntr/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/neurotransmitter/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neurotransmitter/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sascha-knauf/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/thomas-m-butynski/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dorothy-cheney/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-social-2015/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/michael-heistermann/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-seyfarth/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-social-2015/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/association-index/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/association-index/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fissionfusion/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/fissionfusion/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/patzelt-male-2014/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/patzelt-male-2014/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/multilevel-society/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/multilevel-society/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/range-expansion/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/range-expansion/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/social-network-analysis/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/tag/social-network-analysis/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andreas-heinz/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-how-2013/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/gitte-moos-knudsen/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-how-2013/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jan-kalbitzer/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paul-cumming/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/barbara-tiddi/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/wheeler-methodological-2013/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/brandon-c-wheeler/</loc>
-    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/elisabetta-visalberghi/</loc>
-    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/wheeler-methodological-2013/</loc>
-    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/kalbitzer-long-term-2013/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/publication/kalbitzer-long-term-2013/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/post/</loc>
+    <changefreq>weekly</changefreq>
   </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
 </urlset>
