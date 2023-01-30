@@ -5,7 +5,7 @@
     <link>https://urskalbitzer.github.io/publication-type/6/</link>
       <atom:link href="https://urskalbitzer.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 12:48:02 +0000</lastBuildDate>
     <image>
       <url>https://urskalbitzer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Site fidelity and home range shifts in a leaf-eating primate (chapter in press)</title>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-site-nodate/</link>
+      <pubDate>Mon, 30 Jan 2023 12:48:02 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-site-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Primate Responses to Changing Environments in the Anthropocene</title>
-      <link>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018-1/</link>
+      <link>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018-1/</guid>
+      <guid>https://urskalbitzer.github.io/publication/kalbitzer-primate-2018/</guid>
       <description></description>
     </item>
     
