@@ -26,6 +26,22 @@
     <lastmod>2023-01-30T12:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://urskalbitzer.github.io/project/01_changing-environments/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/02_behav_landscapes/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/project/03_behav_evol/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://urskalbitzer.github.io/publication/jahan-movement-2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -238,19 +254,11 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://urskalbitzer.github.io/project/01_female-sociability/</loc>
+    <loc>https://urskalbitzer.github.io/project/04_female-sociability/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://urskalbitzer.github.io/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://urskalbitzer.github.io/project/02_changing-environments/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://urskalbitzer.github.io/project/03_male-competition/</loc>
+    <loc>https://urskalbitzer.github.io/project/05_male-competition/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -495,6 +503,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://urskalbitzer.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://urskalbitzer.github.io/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://urskalbitzer.github.io/categories/</loc>

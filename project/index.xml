@@ -5,7 +5,7 @@
     <link>https://urskalbitzer.github.io/project/</link>
       <atom:link href="https://urskalbitzer.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://urskalbitzer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,10 +13,40 @@
     </image>
     
     <item>
-      <title>Female Sociability</title>
-      <link>https://urskalbitzer.github.io/project/01_female-sociability/</link>
+      <title>Primate responses to changing environments.</title>
+      <link>https://urskalbitzer.github.io/project/01_changing-environments/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/project/01_changing-environments/</guid>
+      <description>&lt;p&gt;According to the IUCN, &lt;a href=&#34;http://advances.sciencemag.org/content/3/1/e1600946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;about 60% of the ~500 primate species are threatened by extinction, and this is mainly the result of human activity&lt;/a&gt;. Environmental changes linked to human activities include climate change, landscape modifications, hunting and other interactions between human and non-human primates. Primates seem to be especially vulnerable to these rapid changes because of their slow life-histories and long generation times. On the other hand, primates show considerable behavioral flexibility, which may help them to respond to environmental change in an adaptive way &lt;a href=&#34;https://doi.org/10.1007/978-3-319-98285-4_14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Kalbitzer &amp;amp; Chapman, 2018)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The question as to how such flexibility may help animals to respond to environmental changes associated with the &lt;a href=&#34;http://www.pnas.org/content/113/15/3908.extract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘Anthropocene’&lt;/a&gt; is generally discussed in behavioral ecology (e.g. &lt;a href=&#34;https://global.oup.com/academic/product/behavioural-responses-to-a-changing-world-9780199602575?cc=ca&amp;amp;lang=en&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://doi.org/10.1093/beheco/aru183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), and insights from respective studies will help to improve the survival of endangered species. Therefore, I would like to contribute to this discussion by investigating how environmental changes affect individual behavioral patterns and survival, and, ultimately, population dynamics in different species of primates.&lt;/p&gt;
+&lt;p&gt;Together with collaborators, I have shown that extreme climate events impact food availability, behavior, infant survival and reproductive activity in fruit-eating spider (&lt;em&gt;Ateles&lt;/em&gt; spp.) and capuchin (&lt;em&gt;Cebus imitator&lt;/em&gt;) monkeys (&lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rsos.200302&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Campos et al., 2020&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.1007/s10329-020-00862-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hartwell et al., 2021&lt;/a&gt;). My research group and I now investigate these &lt;strong&gt;cascading effects of climate change on food availability, behavior and survival&lt;/strong&gt; in the leaf-eating, endangered red colobus (&lt;em&gt;Piliocolobus tephrosceles&lt;/em&gt;) in Kibale National Park, Uganda. We combine long-term data analysis with computational simulations to investigate how climate patterns are linked to the availability of young leaves (their primary diet), and how both climate and food availability impact their behavior, fitness, and population dynamics. As part of this project, we are developing computer simulations that explore the reliability of food preference indices in different foraging contexts. Based on our results, we will use the appropriate tools to investigate the dietary requirements of red colobus and how their essential nutrients are impacted by climate patterns.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nutritional landscapes, animal behavior, and forest composition</title>
+      <link>https://urskalbitzer.github.io/project/02_behav_landscapes/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/project/02_behav_landscapes/</guid>
+      <description>&lt;p&gt;Many theories about the ecology and evolution of behavior are centered around food resource distribution but the assessments of such distribution are often extremely coarse, and rely on broad categories, such as fruit vs. leaves. Therefore, I am exploring new techniques to model temporal and spatial food resource distribution in Kibale and other forested areas. To this end, I am mapping large forest areas using drone imagery data, 3D reconstructions of trees, and computer algorithms, and will combine these maps with fruiting and leafing phenology patterns observed in Kibale since 1990 (Kalbitzer et al., Invited for Resubmission) to create “nutritional landscapes”. These landscapes can then be used to investigate how resource distribution is linked to animal behavior. For example, we know that red colobus have high long-term site fidelity (Kalbitzer et al., accepted), and we are now investigating how landscape features, social factors, dietary requirements, and resource distribution affect their movement and foraging patterns. Furthermore, I am planning to use the mapped forest areas to study how climate and the distribution and behavior of animal populations is linked to forest composition (&lt;a href=&#34;https://doi.org/10.1186/s40663-021-00343-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapman et al., 2021&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primate behavioral evolution</title>
+      <link>https://urskalbitzer.github.io/project/03_behav_evol/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://urskalbitzer.github.io/project/03_behav_evol/</guid>
+      <description>&lt;p&gt;Complimentary to my other research, I am investigating the evolution of primate social behavior. My work has resulted in insights into variation in male and female social behavior, hormonal patterns, and genetic polymorphisms among different species of baboons and other primates (Kalbitzer et al., 2015, 2016, 2017; Kalbitzer &amp;amp; Chapman, 2021), the effects of maternal sociality and male behavior on infant survival in capuchin monkeys (Kalbitzer et al., 2017), and the link between feeding competition and energetic condition in female capuchins (Bergstrom et al., 2020). For more details, please follow the links to my projects on &lt;a href=&#34;https://urskalbitzer.github.io/project/05_male-competition&#34;&gt;male-male competition in baboons&lt;/a&gt; and &lt;a href=&#34;https://urskalbitzer.github.io/project/04_female-sociability&#34;&gt;costs and benefits of female sociability in white-faced capuchins and red colobus monkeys&lt;/a&gt;.&lt;br&gt;
+This research also highlights how behavioral effects (namely, the effects of infanticide) can overshadow climatic effects on primate survival (Campos et al., 2020), stressing that behavioral dimensions have to be considered when investigating the impact of environmental change on animals. My future goal in this area is to investigate how interspecific variability in social- and non-social behavior is linked to ecological factors and fitness across a large number of mammalian species by conducting comparative studies using published data on behavior, life-history parameters, and ecology in combination with the development of computer simulations of virtual animal populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Female sociability and fitness in primates</title>
+      <link>https://urskalbitzer.github.io/project/04_female-sociability/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/project/01_female-sociability/</guid>
+      <guid>https://urskalbitzer.github.io/project/04_female-sociability/</guid>
       <description>&lt;p&gt;In many mammals, including humans, individuals form groups in which social relationships can be highly differentiated (i.e., some individuals form strong relationships, while others only have weak ones). As a result, some individuals are socially better integrated than others, which appears to be beneficial for these individuals. For example,
 other researchers have documented that social integration and support in humans have positive effects on health and longevity (e.g., &lt;a href=&#34;http://www.pnas.org/content/113/3/578&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang et al., 2016&lt;/a&gt;), and increase the reproductive success (&lt;a href=&#34;https://www.nature.com/articles/s41598-017-01310-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page et al., 2017&lt;/a&gt;). Similarly, highly social female &lt;a href=&#34;http://www.pnas.org/content/107/46/19949.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dolphins&lt;/a&gt;, &lt;a href=&#34;http://www.pnas.org/content/106/33/13850.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;horses&lt;/a&gt;, and baboons (&lt;a href=&#34;http://science.sciencemag.org/content/302/5648/1231&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;http://rspb.royalsocietypublishing.org/content/276/1670/3099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, or &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0960982210007219?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) exhibit greater fitness parameters, such as offspring survival or longevity, than socially less well integrated individuals.&lt;/p&gt;
 &lt;p&gt;One of my interests is in understanding how female sociability in primates confers these benefits. A study on white-faced capuchins that I conducted during my postdoc with &lt;a href=&#34;http://people.ucalgary.ca/~fedigan/fedigan.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Linda Fedigan&lt;/a&gt; at the University of Calgary showed that infants of highly social females exhibited greater survival during stable periods, but these infants were at greater risk of dying or disappearing during periods of alpha male replacements (&lt;a href=&#34;http://www.pnas.org/content/114/8/1892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kalbitzer et al. 2017&lt;/a&gt;). Probably, new alpha males, which often commit infanticide in this species, are more likely to target the infants of highly social, and therefore central, females. This example illustrates that sociability can also have costs and, therefore, can represent a trade-off in some species. &amp;ndash; See the feature in the &lt;a href=&#34;https://www.newscientist.com/article/2120476-being-friendly-puts-monkeys-at-risk-in-times-of-revolution/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;New Scientist&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -26,21 +56,10 @@ other researchers have documented that social integration and support in humans 
     </item>
     
     <item>
-      <title>Changing Environments</title>
-      <link>https://urskalbitzer.github.io/project/02_changing-environments/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/project/02_changing-environments/</guid>
-      <description>&lt;p&gt;According to the IUCN, &lt;a href=&#34;http://advances.sciencemag.org/content/3/1/e1600946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;about 60% of the ~500 primate species are threatened by extinction, and this is mainly the result of human activity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Environmental changes linked to human activities include landscape modifications, hunting and other interactions between human and non-human primates, and climate change.&lt;/p&gt;
-&lt;p&gt;Primates seem to be especially vulnerable to these rapid changes because of their slow life-histories and long generation times. On the other hand, primates show considerable behavioral flexibility, which may help them to respond to environmental change in an adaptive way &lt;a href=&#34;https://doi.org/10.1007/978-3-319-98285-4_14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Kalbitzer &amp;amp; Chapman, 2018)&lt;/a&gt;. The question as to how such flexibility may help animals to respond to environmental changes associated with the &lt;a href=&#34;http://www.pnas.org/content/113/15/3908.extract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘Anthropocene’&lt;/a&gt; is generally discussed in behavioral ecology (e.g. &lt;a href=&#34;https://global.oup.com/academic/product/behavioural-responses-to-a-changing-world-9780199602575?cc=ca&amp;amp;lang=en&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://doi.org/10.1093/beheco/aru183&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), and I would like to contribute to this discussion by investigating how environmental changes affect breeding seasonality, infant survival and adaptive social behavior in different species of primates.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Male-male competition</title>
-      <link>https://urskalbitzer.github.io/project/03_male-competition/</link>
+      <title>Male-male competition and tolerance in baboons.</title>
+      <link>https://urskalbitzer.github.io/project/05_male-competition/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://urskalbitzer.github.io/project/03_male-competition/</guid>
+      <guid>https://urskalbitzer.github.io/project/05_male-competition/</guid>
       <description>&lt;p&gt;In mammals, the most common male reproductive strategy is to compete intensely over access to receptive females, and males show little interest in cooperating with each other. However, there are exceptions to this pattern and even males of closely related species can greatly differ. Baboons (&lt;em&gt;Papio&lt;/em&gt; spp.) represent such a genus with variation in male reproductive strategies despite their recent common ancestry (around 2 mya).&lt;/p&gt;
 &lt;p&gt;For my PhD thesis with &lt;a href=&#34;http://www.dpz.eu/en/unit/cognitive-ethology/about-us.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Julia Fischer&lt;/a&gt;, I compared the social behavior between males of two baboon species, chacma baboons in Botswana and Guinea baboons in Senegal because males of these two species appear to represent opposite extremes in terms of their reproductive strategies. Male chacma baboons usually compete intensely to achieve a high dominance rank that provides access to receptive females and, consequently, high reproductive success. On the other hand, male Guinea baboons had been described as living in a multi-level society, with long-term bonds between males and females, male-male cooperation and unknown male dominance relationships.&lt;/p&gt;
 &lt;p&gt;My research demonstrated that males of both species also differed in their aggressiveness and tolerance (&lt;a href=&#34;https://doi.org/10.1016/j.yhbeh.2015.08.013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kalbitzer et al. 2015&lt;/a&gt;). Male chacma baboons were mainly intolerant of each other, often had agonistic interactions and fights that regularly resulted in serious injuries:&lt;/p&gt;
@@ -65,10 +84,10 @@ other researchers have documented that social integration and support in humans 
 &lt;figure  id=&#34;figure-male-chacma-baboon-with-a-wound-after-a-fight-with-another-male-photo-by-urs-kalbitzer&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Male chacma baboon with a wound after a fight with another male. Photo by Urs Kalbitzer.&#34; srcset=&#34;
-               /project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_9c970632adac9b7055aa05bef6b88f95.webp 400w,
-               /project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_b5c8eb2751c81466365ac30191a3571a.webp 760w,
-               /project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://urskalbitzer.github.io/project/03_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_9c970632adac9b7055aa05bef6b88f95.webp&#34;
+               /project/05_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_9c970632adac9b7055aa05bef6b88f95.webp 400w,
+               /project/05_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_b5c8eb2751c81466365ac30191a3571a.webp 760w,
+               /project/05_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://urskalbitzer.github.io/project/05_male-competition/male_chacma_wound_hu1fc30f225621bc00051ee808502c3b82_74369_9c970632adac9b7055aa05bef6b88f95.webp&#34;
                width=&#34;443&#34;
                height=&#34;470&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
